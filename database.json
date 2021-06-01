@@ -46,7 +46,23 @@
             "address": "1210 Lakeview Park"
         }
     ],
-    "employees": [],
+    "employees": [
+        {
+            "id": 1,
+            "name": "Jeffery Young",
+            "locationId": 1
+        },
+        {
+            "id": 2,
+            "name": "Calvin Klien",
+            "locationId": 2
+        },
+        {
+            "id": 3,
+            "name": "Event Listener",
+            "locationId": 1
+        }
+    ],
     "locations": [
         {
             "id": 1,
